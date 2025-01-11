@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97d50fa94f9558144b806e4131b2f564
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - view_camera: {instanceID: 0}
+  - Cooltime_icon: {instanceID: 0}
+  - hypeFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
